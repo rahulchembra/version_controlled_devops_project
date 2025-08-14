@@ -1,8 +1,31 @@
-#devops project\n\nSmall description of project.
+# version controlled DevOps Project with git
 
+A practical project demonstrating an end-to-end Git and GitHub workflow using Ubuntu on VirtualBox.  
+This repository follows an industry-standard branching model (**main → dev → feature/**), leveraging pull requests, annotated tags, and version control best practices.
 
-# DevOps Project
-A sample project to show Git best practices: main, dev, feature branches, PR workflow, tags, and documentation.
+# Key Features
+- Git installation and configuration on Ubuntu  
+- Branching strategy: main (stable), dev (integration), feature/* (work items)  
+- Pull request–based merging on GitHub  
+- Tagging and release creation (v0.1.0)  
+- Clear documentation and commit history to track every change  
 
+# Getting Started
+1. **Clone the repository:**  
 
-a feature/add-readme-details branch created
+   git clone <repo-url>
+   cd devops-project
+  
+2. **Switch to the development branch:**  
+   
+   git checkout dev
+   
+3. **Create a new feature branch for changes:**  
+   
+   git checkout -b feature/<your-feature-name>
+  
+
+# Technologies Used
+- **Ubuntu** (VirtualBox VM)  
+- **Git & GitHub**  
+
