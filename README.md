@@ -1,4 +1,4 @@
-# version controlled DevOps Project with git
+# Version Controlled DevOps Project With Git
 
 A practical project demonstrating an end-to-end Git and GitHub workflow using Ubuntu on VirtualBox.  
 This repository follows an industry-standard branching model (**main → dev → feature/**), leveraging pull requests, annotated tags, and version control best practices.
